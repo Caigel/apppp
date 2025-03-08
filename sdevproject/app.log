@@ -1,0 +1,175 @@
+2025-03-07 15:21:20,612 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-07 15:21:20,612 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-07 15:21:20,613 - INFO -  * Restarting with stat
+2025-03-07 15:21:20,818 - WARNING -  * Debugger is active!
+2025-03-07 15:21:20,819 - INFO -  * Debugger PIN: 995-440-064
+2025-03-07 15:22:02,860 - INFO - 127.0.0.1 - - [07/Mar/2025 15:22:02] "[33mGET / HTTP/1.1[0m" 404 -
+2025-03-07 15:22:02,912 - INFO - 127.0.0.1 - - [07/Mar/2025 15:22:02] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-03-07 15:23:24,694 - INFO - 127.0.0.1 - - [07/Mar/2025 15:23:24] "GET /ingredients HTTP/1.1" 200 -
+2025-03-07 15:33:43,155 - INFO - 127.0.0.1 - - [07/Mar/2025 15:33:43] "GET /ingredients HTTP/1.1" 200 -
+2025-03-07 15:39:14,720 - INFO - 127.0.0.1 - - [07/Mar/2025 15:39:14] "GET /ingredients HTTP/1.1" 200 -
+2025-03-07 15:42:50,076 - INFO -  * Detected change in 'C:\\Users\\Caige\\OneDrive\\Desktop\\sdevproject\\file2.py', reloading
+2025-03-07 15:42:50,151 - INFO -  * Restarting with stat
+2025-03-07 15:42:50,478 - WARNING -  * Debugger is active!
+2025-03-07 15:42:50,480 - INFO -  * Debugger PIN: 995-440-064
+2025-03-07 15:43:08,475 - INFO - 127.0.0.1 - - [07/Mar/2025 15:43:08] "GET /ingredients HTTP/1.1" 200 -
+2025-03-07 17:06:54,253 - INFO - 127.0.0.1 - - [07/Mar/2025 17:06:54] "GET /ingredients HTTP/1.1" 200 -
+2025-03-07 17:09:40,183 - INFO -  * Detected change in 'C:\\Users\\Caige\\OneDrive\\Desktop\\sdevproject\\file2.py', reloading
+2025-03-07 17:09:40,259 - INFO -  * Restarting with stat
+2025-03-07 17:09:40,534 - WARNING -  * Debugger is active!
+2025-03-07 17:09:40,536 - INFO -  * Debugger PIN: 995-440-064
+2025-03-07 17:12:34,289 - INFO -  * Detected change in 'C:\\Users\\Caige\\OneDrive\\Desktop\\sdevproject\\file2.py', reloading
+2025-03-07 17:12:34,359 - INFO -  * Restarting with stat
+2025-03-07 17:12:34,647 - WARNING -  * Debugger is active!
+2025-03-07 17:12:34,648 - INFO -  * Debugger PIN: 995-440-064
+2025-03-07 17:12:54,213 - INFO - 127.0.0.1 - - [07/Mar/2025 17:12:54] "GET /ingredients HTTP/1.1" 200 -
+2025-03-07 17:14:01,045 - INFO -  * Detected change in 'C:\\Users\\Caige\\OneDrive\\Desktop\\sdevproject\\file2.py', reloading
+2025-03-07 17:14:01,123 - INFO -  * Restarting with stat
+2025-03-07 17:14:01,426 - WARNING -  * Debugger is active!
+2025-03-07 17:14:01,428 - INFO -  * Debugger PIN: 995-440-064
+2025-03-07 17:14:14,331 - INFO - 127.0.0.1 - - [07/Mar/2025 17:14:14] "GET /ingredients HTTP/1.1" 200 -
+2025-03-07 17:16:43,068 - INFO -  * Detected change in 'C:\\Users\\Caige\\OneDrive\\Desktop\\sdevproject\\file2.py', reloading
+2025-03-07 17:16:43,122 - INFO -  * Restarting with stat
+2025-03-07 17:16:43,358 - WARNING -  * Debugger is active!
+2025-03-07 17:16:43,360 - INFO -  * Debugger PIN: 995-440-064
+2025-03-07 17:17:04,391 - INFO - 127.0.0.1 - - [07/Mar/2025 17:17:04] "GET /ingredients HTTP/1.1" 200 -
+2025-03-07 17:18:42,409 - INFO - 127.0.0.1 - - [07/Mar/2025 17:18:42] "GET /ingredients HTTP/1.1" 200 -
+2025-03-07 17:19:24,062 - INFO -  * Detected change in 'C:\\Users\\Caige\\OneDrive\\Desktop\\sdevproject\\file2.py', reloading
+2025-03-07 17:19:24,132 - INFO -  * Restarting with stat
+2025-03-07 17:19:24,428 - WARNING -  * Debugger is active!
+2025-03-07 17:19:24,430 - INFO -  * Debugger PIN: 995-440-064
+2025-03-07 17:26:57,292 - INFO - Ingredient added: {'name': 'Ham', 'prepped_amount': 21, 'required_amount': 21, 'prepped_by': 'allen', 'waste_amount': 0}
+2025-03-07 17:26:57,293 - INFO - 127.0.0.1 - - [07/Mar/2025 17:26:57] "[35m[1mPOST /ingredients HTTP/1.1[0m" 201 -
+2025-03-07 17:26:57,295 - INFO - Ingredient added: {'name': 'Ham', 'prepped_amount': 21, 'required_amount': 21, 'prepped_by': 'allen', 'waste_amount': 0}
+2025-03-07 17:27:17,352 - INFO -  * Detected change in 'C:\\Users\\Caige\\OneDrive\\Desktop\\sdevproject\\file2.py', reloading
+2025-03-07 17:27:17,425 - INFO -  * Restarting with stat
+2025-03-07 17:27:17,763 - WARNING -  * Debugger is active!
+2025-03-07 17:27:17,764 - INFO -  * Debugger PIN: 995-440-064
+2025-03-07 17:27:44,415 - INFO - 127.0.0.1 - - [07/Mar/2025 17:27:44] "GET /ingredients HTTP/1.1" 200 -
+2025-03-07 17:27:57,183 - INFO - 127.0.0.1 - - [07/Mar/2025 17:27:57] "GET /ingredients HTTP/1.1" 200 -
+2025-03-07 17:28:38,062 - INFO - 127.0.0.1 - - [07/Mar/2025 17:28:38] "GET /ingredients HTTP/1.1" 200 -
+2025-03-07 17:29:51,856 - INFO - Ingredient added: {'name': 'sharp chedder', 'prepped_amount': 12, 'required_amount': 17, 'prepped_by': 'jack', 'waste_amount': 0}
+2025-03-07 17:29:51,857 - INFO - 127.0.0.1 - - [07/Mar/2025 17:29:51] "[35m[1mPOST /ingredients HTTP/1.1[0m" 201 -
+2025-03-07 17:29:51,858 - INFO - Ingredient added: {'name': 'sharp chedder', 'prepped_amount': 12, 'required_amount': 17, 'prepped_by': 'jack', 'waste_amount': 0}
+2025-03-07 17:29:54,487 - INFO - 127.0.0.1 - - [07/Mar/2025 17:29:54] "GET /ingredients HTTP/1.1" 200 -
+2025-03-07 17:30:07,896 - INFO - 127.0.0.1 - - [07/Mar/2025 17:30:07] "GET /ingredients HTTP/1.1" 200 -
+2025-03-07 17:33:44,339 - INFO -  * Detected change in 'C:\\Users\\Caige\\OneDrive\\Desktop\\sdevproject\\file1.py', reloading
+2025-03-07 17:33:44,434 - INFO -  * Restarting with stat
+2025-03-07 17:33:44,772 - WARNING -  * Debugger is active!
+2025-03-07 17:33:44,775 - INFO -  * Debugger PIN: 995-440-064
+2025-03-07 17:34:18,611 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-07 17:34:18,611 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-07 17:34:18,612 - INFO -  * Restarting with stat
+2025-03-07 17:34:18,895 - WARNING -  * Debugger is active!
+2025-03-07 17:34:18,897 - INFO -  * Debugger PIN: 995-440-064
+2025-03-07 17:34:25,064 - INFO - 127.0.0.1 - - [07/Mar/2025 17:34:25] "GET /ingredients HTTP/1.1" 200 -
+2025-03-07 17:37:53,335 - INFO - 127.0.0.1 - - [07/Mar/2025 17:37:53] "GET /ingredients HTTP/1.1" 200 -
+2025-03-07 17:38:15,508 - INFO - 127.0.0.1 - - [07/Mar/2025 17:38:15] "GET /ingredients HTTP/1.1" 200 -
+2025-03-07 18:31:23,316 - INFO - 127.0.0.1 - - [07/Mar/2025 18:31:23] "GET /ingredients HTTP/1.1" 200 -
+2025-03-07 18:33:51,800 - INFO - 127.0.0.1 - - [07/Mar/2025 18:33:51] "GET /ingredients HTTP/1.1" 200 -
+2025-03-07 18:38:05,000 - INFO - 127.0.0.1 - - [07/Mar/2025 18:38:05] "GET /ingredients HTTP/1.1" 200 -
+2025-03-07 18:38:47,345 - INFO - 127.0.0.1 - - [07/Mar/2025 18:38:47] "GET /ingredients HTTP/1.1" 200 -
+2025-03-07 18:39:40,496 - INFO - 127.0.0.1 - - [07/Mar/2025 18:39:40] "GET /ingredients HTTP/1.1" 200 -
+2025-03-07 18:40:26,992 - INFO - 127.0.0.1 - - [07/Mar/2025 18:40:26] "GET /ingredients HTTP/1.1" 200 -
+2025-03-07 18:41:34,156 - INFO - 127.0.0.1 - - [07/Mar/2025 18:41:34] "GET /ingredients HTTP/1.1" 200 -
+2025-03-07 18:42:10,958 - INFO - 127.0.0.1 - - [07/Mar/2025 18:42:10] "GET /ingredients HTTP/1.1" 200 -
+2025-03-07 18:50:26,146 - INFO - 127.0.0.1 - - [07/Mar/2025 18:50:26] "GET /ingredients HTTP/1.1" 200 -
+2025-03-07 18:54:43,433 - INFO - 127.0.0.1 - - [07/Mar/2025 18:54:43] "GET /ingredients HTTP/1.1" 200 -
+2025-03-07 18:55:58,660 - INFO - 127.0.0.1 - - [07/Mar/2025 18:55:58] "GET /ingredients HTTP/1.1" 200 -
+2025-03-07 18:56:03,942 - INFO - 127.0.0.1 - - [07/Mar/2025 18:56:03] "GET /ingredients HTTP/1.1" 200 -
+2025-03-07 18:56:12,186 - INFO - Ingredient deleted: ID 2
+2025-03-07 18:56:12,186 - INFO - 127.0.0.1 - - [07/Mar/2025 18:56:12] "DELETE /ingredients/2 HTTP/1.1" 200 -
+2025-03-07 18:56:13,876 - INFO - 127.0.0.1 - - [07/Mar/2025 18:56:13] "GET /ingredients HTTP/1.1" 200 -
+2025-03-07 18:58:37,498 - INFO - 127.0.0.1 - - [07/Mar/2025 18:58:37] "GET /ingredients HTTP/1.1" 200 -
+2025-03-07 19:13:19,275 - INFO - 127.0.0.1 - - [07/Mar/2025 19:13:19] "GET /ingredients HTTP/1.1" 200 -
+2025-03-07 19:14:27,938 - INFO - 127.0.0.1 - - [07/Mar/2025 19:14:27] "GET /ingredients HTTP/1.1" 200 -
+2025-03-07 19:22:35,493 - INFO - 127.0.0.1 - - [07/Mar/2025 19:22:35] "GET /ingredients HTTP/1.1" 200 -
+2025-03-07 19:23:39,664 - INFO - 127.0.0.1 - - [07/Mar/2025 19:23:39] "GET /ingredients HTTP/1.1" 200 -
+2025-03-07 19:25:10,746 - INFO - 127.0.0.1 - - [07/Mar/2025 19:25:10] "GET /ingredients HTTP/1.1" 200 -
+2025-03-07 19:25:21,047 - INFO - 127.0.0.1 - - [07/Mar/2025 19:25:21] "GET /ingredients HTTP/1.1" 200 -
+2025-03-07 19:28:03,445 - INFO - 127.0.0.1 - - [07/Mar/2025 19:28:03] "GET /ingredients HTTP/1.1" 200 -
+2025-03-07 19:28:18,700 - INFO - 127.0.0.1 - - [07/Mar/2025 19:28:18] "GET /ingredients HTTP/1.1" 200 -
+2025-03-07 19:29:33,306 - INFO - 127.0.0.1 - - [07/Mar/2025 19:29:33] "GET /ingredients HTTP/1.1" 200 -
+2025-03-07 19:29:58,840 - INFO - 127.0.0.1 - - [07/Mar/2025 19:29:58] "GET /ingredients HTTP/1.1" 200 -
+2025-03-07 19:30:09,902 - INFO - 127.0.0.1 - - [07/Mar/2025 19:30:09] "GET /ingredients HTTP/1.1" 200 -
+2025-03-08 00:16:17,409 - INFO - 127.0.0.1 - - [08/Mar/2025 00:16:17] "GET /ingredients HTTP/1.1" 200 -
+2025-03-08 00:16:27,477 - INFO - 127.0.0.1 - - [08/Mar/2025 00:16:27] "GET /ingredients HTTP/1.1" 200 -
+2025-03-08 00:19:48,521 - INFO - 127.0.0.1 - - [08/Mar/2025 00:19:48] "GET /ingredients HTTP/1.1" 200 -
+2025-03-08 00:19:58,265 - INFO - 127.0.0.1 - - [08/Mar/2025 00:19:58] "GET /ingredients HTTP/1.1" 200 -
+2025-03-08 00:21:08,618 - INFO - 127.0.0.1 - - [08/Mar/2025 00:21:08] "GET /ingredients HTTP/1.1" 200 -
+2025-03-08 00:22:10,712 - INFO - 127.0.0.1 - - [08/Mar/2025 00:22:10] "GET /ingredients HTTP/1.1" 200 -
+2025-03-08 00:24:52,829 - INFO - 127.0.0.1 - - [08/Mar/2025 00:24:52] "GET /ingredients HTTP/1.1" 200 -
+2025-03-08 00:25:06,833 - INFO - 127.0.0.1 - - [08/Mar/2025 00:25:06] "GET /ingredients HTTP/1.1" 200 -
+2025-03-08 00:30:46,414 - INFO - 127.0.0.1 - - [08/Mar/2025 00:30:46] "GET /ingredients HTTP/1.1" 200 -
+2025-03-08 00:30:57,951 - INFO - Ingredient updated: ID 1, New Prepped Amount: 12
+2025-03-08 00:30:57,952 - INFO - 127.0.0.1 - - [08/Mar/2025 00:30:57] "PUT /ingredients/1 HTTP/1.1" 200 -
+2025-03-08 00:31:01,084 - INFO - 127.0.0.1 - - [08/Mar/2025 00:31:01] "GET /ingredients HTTP/1.1" 200 -
+2025-03-08 00:31:01,110 - INFO - 127.0.0.1 - - [08/Mar/2025 00:31:01] "GET /ingredients HTTP/1.1" 200 -
+2025-03-08 00:31:12,205 - INFO - 127.0.0.1 - - [08/Mar/2025 00:31:12] "GET /ingredients HTTP/1.1" 200 -
+2025-03-08 00:34:34,921 - INFO - 127.0.0.1 - - [08/Mar/2025 00:34:34] "GET /ingredients HTTP/1.1" 200 -
+2025-03-08 00:34:43,699 - INFO - 127.0.0.1 - - [08/Mar/2025 00:34:43] "GET /ingredients HTTP/1.1" 200 -
+2025-03-08 00:36:39,540 - INFO - 127.0.0.1 - - [08/Mar/2025 00:36:39] "GET /ingredients HTTP/1.1" 200 -
+2025-03-08 00:37:31,072 - INFO - 127.0.0.1 - - [08/Mar/2025 00:37:31] "GET /ingredients HTTP/1.1" 200 -
+2025-03-08 00:46:14,861 - INFO - 127.0.0.1 - - [08/Mar/2025 00:46:14] "GET /ingredients HTTP/1.1" 200 -
+2025-03-08 00:47:37,677 - INFO - 127.0.0.1 - - [08/Mar/2025 00:47:37] "GET /ingredients HTTP/1.1" 200 -
+2025-03-08 00:47:52,056 - INFO - 127.0.0.1 - - [08/Mar/2025 00:47:52] "GET /ingredients HTTP/1.1" 200 -
+2025-03-08 00:48:00,503 - INFO - 127.0.0.1 - - [08/Mar/2025 00:48:00] "GET /ingredients HTTP/1.1" 200 -
+2025-03-08 00:50:05,463 - INFO - 127.0.0.1 - - [08/Mar/2025 00:50:05] "GET /ingredients HTTP/1.1" 200 -
+2025-03-08 00:50:11,922 - INFO - 127.0.0.1 - - [08/Mar/2025 00:50:11] "GET /ingredients HTTP/1.1" 200 -
+2025-03-08 00:54:03,046 - INFO - 127.0.0.1 - - [08/Mar/2025 00:54:03] "GET /ingredients HTTP/1.1" 200 -
+2025-03-08 00:54:12,395 - INFO - 127.0.0.1 - - [08/Mar/2025 00:54:12] "GET /ingredients HTTP/1.1" 200 -
+2025-03-08 00:55:48,973 - INFO - 127.0.0.1 - - [08/Mar/2025 00:55:48] "GET /ingredients HTTP/1.1" 200 -
+2025-03-08 00:55:54,339 - INFO - Ingredient updated: ID 1, New Prepped Amount: 11
+2025-03-08 00:55:54,339 - INFO - 127.0.0.1 - - [08/Mar/2025 00:55:54] "PUT /ingredients/1 HTTP/1.1" 200 -
+2025-03-08 00:55:57,523 - INFO - 127.0.0.1 - - [08/Mar/2025 00:55:57] "GET /ingredients HTTP/1.1" 200 -
+2025-03-08 00:55:57,545 - INFO - 127.0.0.1 - - [08/Mar/2025 00:55:57] "GET /ingredients HTTP/1.1" 200 -
+2025-03-08 00:57:39,994 - INFO -  * Detected change in 'C:\\Users\\Caige\\onedrive\\desktop\\sdevproject\\file2.py', reloading
+2025-03-08 00:57:40,103 - INFO -  * Restarting with stat
+2025-03-08 00:57:40,567 - WARNING -  * Debugger is active!
+2025-03-08 00:57:40,569 - INFO -  * Debugger PIN: 995-440-064
+2025-03-08 00:57:42,593 - INFO -  * Detected change in 'C:\\Users\\Caige\\onedrive\\desktop\\sdevproject\\file1.py', reloading
+2025-03-08 00:57:42,665 - INFO -  * Restarting with stat
+2025-03-08 00:57:43,137 - WARNING -  * Debugger is active!
+2025-03-08 00:57:43,140 - INFO -  * Debugger PIN: 995-440-064
+2025-03-08 00:58:32,770 - ERROR - Error in load_inventory: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /ingredients (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000015506D896A0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-03-08 00:58:45,949 - ERROR - Error in load_inventory: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /ingredients (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000155093E8690>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-03-08 00:59:07,265 - ERROR - Error in load_inventory: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /ingredients (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000155093E8F50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-03-08 01:00:29,877 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-08 01:00:29,878 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-08 01:00:29,880 - INFO -  * Restarting with stat
+2025-03-08 01:00:30,300 - WARNING -  * Debugger is active!
+2025-03-08 01:00:30,304 - INFO -  * Debugger PIN: 995-440-064
+2025-03-08 01:00:59,149 - INFO - 127.0.0.1 - - [08/Mar/2025 01:00:59] "GET /ingredients HTTP/1.1" 200 -
+2025-03-08 01:01:07,533 - INFO - 127.0.0.1 - - [08/Mar/2025 01:01:07] "GET /ingredients HTTP/1.1" 200 -
+2025-03-08 01:01:49,793 - INFO - Ingredient added: {'name': 'Ham', 'prepped_amount': 18, 'required_amount': 20, 'prepped_by': 'pop', 'waste_amount': 0}
+2025-03-08 01:01:49,794 - INFO - 127.0.0.1 - - [08/Mar/2025 01:01:49] "[35m[1mPOST /ingredients HTTP/1.1[0m" 201 -
+2025-03-08 01:01:49,795 - INFO - Ingredient added: {'name': 'Ham', 'prepped_amount': 18, 'required_amount': 20, 'prepped_by': 'pop', 'waste_amount': 0}
+2025-03-08 01:02:02,579 - INFO - Ingredient added: {'name': 'Turkey', 'prepped_amount': 2, 'required_amount': 15, 'prepped_by': 'pop', 'waste_amount': 0}
+2025-03-08 01:02:02,579 - INFO - 127.0.0.1 - - [08/Mar/2025 01:02:02] "[35m[1mPOST /ingredients HTTP/1.1[0m" 201 -
+2025-03-08 01:02:02,581 - INFO - Ingredient added: {'name': 'Turkey', 'prepped_amount': 2, 'required_amount': 15, 'prepped_by': 'pop', 'waste_amount': 0}
+2025-03-08 01:02:19,660 - INFO - Ingredient added: {'name': 'Swiss', 'prepped_amount': 23, 'required_amount': 18, 'prepped_by': 'pop', 'waste_amount': 5}
+2025-03-08 01:02:19,661 - INFO - 127.0.0.1 - - [08/Mar/2025 01:02:19] "[35m[1mPOST /ingredients HTTP/1.1[0m" 201 -
+2025-03-08 01:02:19,662 - INFO - Ingredient added: {'name': 'Swiss', 'prepped_amount': 23, 'required_amount': 18, 'prepped_by': 'pop', 'waste_amount': 5}
+2025-03-08 01:02:32,797 - INFO - Ingredient added: {'name': 'Bread', 'prepped_amount': 43, 'required_amount': 50, 'prepped_by': 'pop', 'waste_amount': 0}
+2025-03-08 01:02:32,798 - INFO - 127.0.0.1 - - [08/Mar/2025 01:02:32] "[35m[1mPOST /ingredients HTTP/1.1[0m" 201 -
+2025-03-08 01:02:32,799 - INFO - Ingredient added: {'name': 'Bread', 'prepped_amount': 43, 'required_amount': 50, 'prepped_by': 'pop', 'waste_amount': 0}
+2025-03-08 01:02:34,946 - INFO - 127.0.0.1 - - [08/Mar/2025 01:02:34] "GET /ingredients HTTP/1.1" 200 -
+2025-03-08 01:02:57,226 - INFO - Ingredient updated: ID 2, New Prepped Amount: 12
+2025-03-08 01:02:57,227 - INFO - 127.0.0.1 - - [08/Mar/2025 01:02:57] "PUT /ingredients/2 HTTP/1.1" 200 -
+2025-03-08 01:02:57,229 - INFO - Ingredient updated: ID 2 with new prepped amount: 12
+2025-03-08 01:02:58,707 - INFO - 127.0.0.1 - - [08/Mar/2025 01:02:58] "GET /ingredients HTTP/1.1" 200 -
+2025-03-08 01:02:58,722 - INFO - 127.0.0.1 - - [08/Mar/2025 01:02:58] "GET /ingredients HTTP/1.1" 200 -
+2025-03-08 01:03:05,828 - INFO - Ingredient deleted: ID 4
+2025-03-08 01:03:05,829 - INFO - 127.0.0.1 - - [08/Mar/2025 01:03:05] "DELETE /ingredients/4 HTTP/1.1" 200 -
+2025-03-08 01:03:05,830 - INFO - Ingredient deleted: ID 4
+2025-03-08 01:03:06,975 - INFO - 127.0.0.1 - - [08/Mar/2025 01:03:06] "GET /ingredients HTTP/1.1" 200 -
+2025-03-08 01:03:34,663 - INFO - 127.0.0.1 - - [08/Mar/2025 01:03:34] "GET /ingredients HTTP/1.1" 200 -
+2025-03-08 01:06:57,373 - INFO -  * Detected change in 'C:\\Users\\Caige\\onedrive\\desktop\\sdevproject\\file1.py', reloading
+2025-03-08 01:06:57,483 - INFO -  * Restarting with stat
+2025-03-08 01:17:29,739 - INFO - 127.0.0.1 - - [08/Mar/2025 01:17:29] "[33mGET / HTTP/1.1[0m" 404 -
+2025-03-08 01:17:38,550 - INFO - 127.0.0.1 - - [08/Mar/2025 01:17:38] "[33mGET / HTTP/1.1[0m" 404 -
+2025-03-08 01:17:48,441 - INFO - 127.0.0.1 - - [08/Mar/2025 01:17:48] "[33mGET / HTTP/1.1[0m" 404 -
+2025-03-08 01:26:11,000 - INFO - Ingredient added: {'name': 'Ham', 'prepped_amount': 23, 'required_amount': 22, 'prepped_by': 'prprp', 'waste_amount': 1}
